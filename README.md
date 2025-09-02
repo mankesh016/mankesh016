@@ -2,14 +2,15 @@
 
 ## About Me
 
-I'm a passionate competitive programmer focusing on solving complex algorithmic challenges and building robust mobile applications. Currently pursuing my B.Tech and exploring various facets of software development.
+I'm a passionate competitive programmer dedicated to solving complex algorithmic challenges and building scalable applications. Currently pursuing my B.Tech and diving deeper into Artificial Intelligence, Machine Learning, and advanced algorithms for competitive programming.
 
-- 🔭 I’m currently working on Android Apps, including a chatting application.
-- 🌱 I’m proficient in C++, Kotlin, CSS, JavaScript, React, and Linux.
-- 💼 Android Development: Kotlin, Android Studio
-- 💬 Ask me about algorithms, data structures, or anything related to competitive programming.
-- 📫 How to reach me: dhanawatmankesh@gmail.com
-- ⚡ Fun fact: I love logical puzzles and brain teasers!
+- 🔭 I’m currently exploring AI/ML projects alongside Android and web development.
+- 🌱 I’m proficient in C++, Go, Kotlin, Java, JavaScript, TypeScript, React, and Linux.
+- 💼 Development Experience: Android (Kotlin, Android Studio), Web (React, TypeScript).
+- 💬 Ask me about algorithms, data structures, AI/ML basics, or anything related to competitive programming.
+- 📫 Reach me at: dhanawatmankesh@gmail.com
+
+⚡ Fun fact: I love logical puzzles and brain teasers!
 
 ## Find Me Online
 
