@@ -117,11 +117,11 @@
 
 ## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mankesh016&style=for-the-badge&color=blue&logo=github" alt="Profile views"/>
 <img src="https://img.shields.io/github/stars/mankesh016?label=Stars&style=for-the-badge&color=green&logo=github"/>  
 <img src="https://img.shields.io/github/followers/mankesh016?label=Followers&style=for-the-badge&color=yellow&logo=github"/>
-</p>
+</p> -->
 
 <div align="center">
 <p>
