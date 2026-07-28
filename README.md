@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=2F81F7&center=true&vCenter=true&width=650&lines=Candidate+Master+%40+Codeforces;6+Star+%40+CodeChef;Google+Summer+Intern+2025;ICPC+Regionalist+x+2;Full-Stack+%26+DevOps+Enthusiast;Diving+deep+into+AI;Building+Scalable+Systems" alt="Typing SVG" />
 </p>
 <br/>
+
 <p align="center">
   <a href="https://linkedin.com/in/mankesh016"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/mankesh016"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
@@ -15,12 +16,14 @@
   <a href="https://www.codechef.com/users/mankesh016"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://leetcode.com/mankesh016"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
  
- 
+
 </p>
 
 ---
 
 ### 🚀 About Me
+
+ [![Codeforces](https://codeforces-stats-vlx.vercel.app/api/badge?username=cp_first&theme=github_dark&darkMode=true)](https://codeforces.com/profile/cp_first)
 
 * 🧠 Competitive programmer with a strong problem-solving mindset and a habit of thinking deeply about systems and algorithms
 
@@ -126,6 +129,23 @@
 
 ---
 
+### 📊 Coding Profiles
+
+<div align="center">
+<a href="https://codeforces.com/profile/cp_first">
+  <img height="410" src="https://codeforces-stats-vlx.vercel.app/api/card?username=cp_first&theme=dark&darkMode=true" alt="Codeforces" />
+</a>
+<a href="https://leetcode.com/u/mankesh016">
+  <img height="400" src="https://leetcard.jacoblin.cool/mankesh016?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode" />
+</a>
+
+<a href="https://codeforces.com/profile/cp_first">
+  <img src="https://codeforces-stats-vlx.vercel.app//api/graph?username=cp_first&theme=github_dark&darkMode=true" width="100%" style="max-width: 1400px" alt="Codeforces"/>
+</a>
+</div>
+
+---
+
 ### 👨🏻‍💻 GitHub Stats
 
 <p align="center">
@@ -149,6 +169,6 @@
 </p>
 
 <p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mankesh016&bg_color=151515&border_color=595D63&color=929292&title_color=ffffff&line=F27405&point=9F9F9F&area_color=ffffff" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mankesh016&bg_color=151515&border_color=595D63&color=929292&title_color=ffffff&line=F27405&point=9F9F9F&area_color=ffffff" width="100%" maxWidth="500" style="max-width: 1400px" alt="Activity Graph" />
 </p>
 </div>
