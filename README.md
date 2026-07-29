@@ -22,8 +22,6 @@
 
 ### 🚀 About Me
 
-[![Codeforces](https://codeforces-stats-vlx.vercel.app/api/badge?username=cp_first&theme=github_dark&darkMode=true)](https://codeforces.com/profile/cp_first)
-
 - 🧠 Competitive programmer with a strong problem-solving mindset and a habit of thinking deeply about systems and algorithms
 
 - ⚙️ Building **Full-Stack applications and DevOps workflows**, with a focus on scalable and production-ready systems
@@ -131,16 +129,36 @@
 ### 📊 Coding Profiles
 
 <div align="center">
-<a href="https://codeforces.com/profile/cp_first">
-  <img height="410" src="https://codeforces-stats-vlx.vercel.app/api/card?username=cp_first&theme=dark&darkMode=true" alt="Codeforces" />
-</a>
-<a href="https://leetcode.com/u/mankesh016">
-  <img height="400" src="https://leetcard.jacoblin.cool/mankesh016?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode" />
-</a>
 
-<a href="https://codeforces.com/profile/cp_first">
-  <img src="https://codeforces-stats-vlx.vercel.app//api/graph?username=cp_first&theme=github_dark&darkMode=true" width="100%" style="max-width: 1400px" alt="Codeforces"/>
-</a>
+<table>
+  <tr>
+        <td align="center">
+            <a href="https://codeforces.com/profile/cp_first">
+                <img src="https://codeforces-stats-vlx.vercel.app/api/badge?username=cp_first&theme=github_dark&darkMode=true" alt="Codeforces" />
+            </a>
+        </td>
+        <td rowspan="2">
+            <a href="https://leetcode.com/u/mankesh016">
+                <img src="https://leetcard.jacoblin.cool/mankesh016?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode" />
+            </a>
+        </td>
+  </tr>
+  <tr>
+        <td>
+        <a href="https://codeforces.com/profile/cp_first">
+            <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=cp_first&theme=dark&darkMode=true" alt="Codeforces" />
+        </a>
+        </td>
+  </tr>
+  <tr>
+        <td colspan="2">
+            <a href="https://codeforces.com/profile/cp_first">
+                <img src="https://codeforces-stats-vlx.vercel.app//api/graph?username=cp_first&theme=github_dark&darkMode=true" width="100%" style="max-width: 1200px" alt="Codeforces"/>
+            </a>
+        </td>
+  </tr>
+</table>
+
 </div>
 
 ---
@@ -154,29 +172,39 @@
 </p>
 
 <div align="center">
-<p>
 
-![GitHub Stats](https://github-stats-extended-mankesh016.vercel.app/api?username=mankesh016&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
-![GitHub Stats](https://github-stats-extended-mankesh016.vercel.app/api/top-langs?username=mankesh016&layout=donut-vertical&langs_count=8&theme=dark)
-
-</p>
-
-<p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mankesh016&theme=dark)](https://git.io/streak-stats)
-
-</p>
-
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mankesh016&bg_color=151515&border_color=595D63&color=929292&title_color=ffffff&line=F27405&point=9F9F9F&area_color=ffffff" width="100%" maxWidth="500" style="max-width: 1400px" alt="Activity Graph" />
-</p>
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mankesh016/mankesh016/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mankesh016/mankesh016/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" width="100%" style="max-width: 1400px" src="https://raw.githubusercontent.com/mankesh016/mankesh016/pacman-output/pacman-contribution-graph-dark.svg">
-</picture>
-</p>
+<table>
+  <tr>
+        <td>
+            <a href="https://github-stats-extended-mankesh016.vercel.app/api?username=mankesh016&rank_icon=percentile&hide_title=true&show_icons=true&theme=dark">
+                <img src="https://github-stats-extended-mankesh016.vercel.app/api?username=mankesh016&rank_icon=percentile&hide_title=true&show_icons=true&theme=dark" alt="GitHub Stats" width="100%"/>
+            </a>
+        </td>
+        <td rowspan="2" align="center">
+            <img src="https://github-stats-extended-mankesh016.vercel.app/api/top-langs?username=mankesh016&layout=donut-vertical&langs_count=8&theme=dark" alt="Top Languages" width="100%"/>
+        </td>
+  </tr>
+  <tr>
+        <td>
+            <a href="https://git.io/streak-stats">
+                <img src="https://github-readme-streak-stats.herokuapp.com?user=mankesh016&theme=dark" alt="GitHub Streak" width="100%"/>
+            </a>
+        </td>
+  </tr>
+  <tr>
+        <td colspan="2" align="center">
+         <img src="https://github-readme-activity-graph.vercel.app/graph?username=mankesh016&bg_color=151515&border_color=595D63&color=929292&title_color=ffffff&line=F27405&point=9F9F9F&area_color=ffffff" width="100%" style="max-width: 1200px" alt="Activity Graph" />
+        </td>
+  </tr>
+  <tr>
+        <td colspan="2" align="center">
+            <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mankesh016/mankesh016/pacman-output/pacman-contribution-graph-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mankesh016/mankesh016/pacman-output/pacman-contribution-graph.svg">
+            <img alt="pacman contribution graph" width="100%" style="max-width: 1200px" src="https://raw.githubusercontent.com/mankesh016/mankesh016/pacman-output/pacman-contribution-graph-dark.svg">
+            </picture>
+        </td>
+  </tr>
+</table>
 
 </div>
