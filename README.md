@@ -15,7 +15,6 @@
   <a href="https://codeforces.com/profile/cp_first"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/mankesh016"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://leetcode.com/mankesh016"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
- 
 
 </p>
 
@@ -23,17 +22,17 @@
 
 ### 🚀 About Me
 
- [![Codeforces](https://codeforces-stats-vlx.vercel.app/api/badge?username=cp_first&theme=github_dark&darkMode=true)](https://codeforces.com/profile/cp_first)
+[![Codeforces](https://codeforces-stats-vlx.vercel.app/api/badge?username=cp_first&theme=github_dark&darkMode=true)](https://codeforces.com/profile/cp_first)
 
-* 🧠 Competitive programmer with a strong problem-solving mindset and a habit of thinking deeply about systems and algorithms
+- 🧠 Competitive programmer with a strong problem-solving mindset and a habit of thinking deeply about systems and algorithms
 
-* ⚙️ Building **Full-Stack applications and DevOps workflows**, with a focus on scalable and production-ready systems
+- ⚙️ Building **Full-Stack applications and DevOps workflows**, with a focus on scalable and production-ready systems
 
-* 🤖 Currently exploring **AI**, learning how intelligent systems are designed and built
+- 🤖 Currently exploring **AI**, learning how intelligent systems are designed and built
 
-* 💻 Interested in the intersection of software engineering, infrastructure, and real-world problem solving
+- 💻 Interested in the intersection of software engineering, infrastructure, and real-world problem solving
 
-* 🌱 Always looking for challenging problems — from algorithmic puzzles to system design and architecture decisions
+- 🌱 Always looking for challenging problems — from algorithmic puzzles to system design and architecture decisions
 
 ---
 
@@ -171,4 +170,13 @@
 <p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mankesh016&bg_color=151515&border_color=595D63&color=929292&title_color=ffffff&line=F27405&point=9F9F9F&area_color=ffffff" width="100%" maxWidth="500" style="max-width: 1400px" alt="Activity Graph" />
 </p>
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mankesh016/mankesh016/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mankesh016/mankesh016/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" width="100%" style="max-width: 1400px" src="https://raw.githubusercontent.com/mankesh016/mankesh016/pacman-output/pacman-contribution-graph-dark.svg">
+</picture>
+</p>
+
 </div>
